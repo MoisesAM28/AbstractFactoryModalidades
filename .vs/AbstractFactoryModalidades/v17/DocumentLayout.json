@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactoryModalidades\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\HibridaFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactoryModalidades\\HibridaFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\ExamenMixto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactoryModalidades\\ExamenMixto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\GuiaHibrida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactoryModalidades\\GuiaHibrida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\EnLineaFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactoryModalidades\\EnLineaFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\ExamenEnLinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactoryModalidades\\ExamenEnLinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\GuiaEnLinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactoryModalidades\\GuiaEnLinea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\PresencialFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactoryModalidades\\PresencialFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\ExamenPresencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactoryModalidades\\ExamenPresencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\GuiaPresencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactoryModalidades\\GuiaPresencial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\IModalidadFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactoryModalidades\\IModalidadFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\IExamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactoryModalidades\\IExamen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\IGuia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AbstractFactoryModalidades\\IGuia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HibridaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\HibridaFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryModalidades\\HibridaFactory.cs",
+              "ToolTip": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\HibridaFactory.cs",
+              "RelativeToolTip": "AbstractFactoryModalidades\\HibridaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:28:53.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExamenMixto.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\ExamenMixto.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryModalidades\\ExamenMixto.cs",
+              "ToolTip": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\ExamenMixto.cs",
+              "RelativeToolTip": "AbstractFactoryModalidades\\ExamenMixto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:28:29.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GuiaHibrida.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\GuiaHibrida.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryModalidades\\GuiaHibrida.cs",
+              "ToolTip": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\GuiaHibrida.cs",
+              "RelativeToolTip": "AbstractFactoryModalidades\\GuiaHibrida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:28:12.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnLineaFactory.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\EnLineaFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryModalidades\\EnLineaFactory.cs",
+              "ToolTip": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\EnLineaFactory.cs",
+              "RelativeToolTip": "AbstractFactoryModalidades\\EnLineaFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:27:38.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExamenEnLinea.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\ExamenEnLinea.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryModalidades\\ExamenEnLinea.cs",
+              "ToolTip": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\ExamenEnLinea.cs",
+              "RelativeToolTip": "AbstractFactoryModalidades\\ExamenEnLinea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:27:13.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GuiaEnLinea.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\GuiaEnLinea.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryModalidades\\GuiaEnLinea.cs",
+              "ToolTip": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\GuiaEnLinea.cs",
+              "RelativeToolTip": "AbstractFactoryModalidades\\GuiaEnLinea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:26:35.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PresencialFactory.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\PresencialFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryModalidades\\PresencialFactory.cs",
+              "ToolTip": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\PresencialFactory.cs",
+              "RelativeToolTip": "AbstractFactoryModalidades\\PresencialFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:26:13.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryModalidades\\Program.cs",
+              "ToolTip": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\Program.cs",
+              "RelativeToolTip": "AbstractFactoryModalidades\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:19:18.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExamenPresencial.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\ExamenPresencial.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryModalidades\\ExamenPresencial.cs",
+              "ToolTip": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\ExamenPresencial.cs",
+              "RelativeToolTip": "AbstractFactoryModalidades\\ExamenPresencial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:25:09.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GuiaPresencial.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\GuiaPresencial.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryModalidades\\GuiaPresencial.cs",
+              "ToolTip": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\GuiaPresencial.cs",
+              "RelativeToolTip": "AbstractFactoryModalidades\\GuiaPresencial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:23:59.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IModalidadFactory.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\IModalidadFactory.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryModalidades\\IModalidadFactory.cs",
+              "ToolTip": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\IModalidadFactory.cs",
+              "RelativeToolTip": "AbstractFactoryModalidades\\IModalidadFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:21:55.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IExamen.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\IExamen.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryModalidades\\IExamen.cs",
+              "ToolTip": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\IExamen.cs",
+              "RelativeToolTip": "AbstractFactoryModalidades\\IExamen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:21:31.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGuia.cs",
+              "DocumentMoniker": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\IGuia.cs",
+              "RelativeDocumentMoniker": "AbstractFactoryModalidades\\IGuia.cs",
+              "ToolTip": "C:\\Users\\moise\\Downloads\\AbstractFactoryModalidades\\AbstractFactoryModalidades\\IGuia.cs",
+              "RelativeToolTip": "AbstractFactoryModalidades\\IGuia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T03:20:51.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

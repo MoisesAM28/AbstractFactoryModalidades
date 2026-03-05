@@ -1,0 +1,14 @@
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\bin\Debug\net8.0\AbstractFactoryModalidades.exe
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\bin\Debug\net8.0\AbstractFactoryModalidades.deps.json
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\bin\Debug\net8.0\AbstractFactoryModalidades.runtimeconfig.json
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\bin\Debug\net8.0\AbstractFactoryModalidades.dll
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\bin\Debug\net8.0\AbstractFactoryModalidades.pdb
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\obj\Debug\net8.0\AbstractFactoryModalidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\obj\Debug\net8.0\AbstractFactoryModalidades.AssemblyInfoInputs.cache
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\obj\Debug\net8.0\AbstractFactoryModalidades.AssemblyInfo.cs
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\obj\Debug\net8.0\AbstractFactoryModalidades.csproj.CoreCompileInputs.cache
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\obj\Debug\net8.0\AbstractFactoryModalidades.dll
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\obj\Debug\net8.0\refint\AbstractFactoryModalidades.dll
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\obj\Debug\net8.0\AbstractFactoryModalidades.pdb
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\obj\Debug\net8.0\AbstractFactoryModalidades.genruntimeconfig.cache
+C:\Users\moise\source\repos\AbstractFactoryModalidades\AbstractFactoryModalidades\obj\Debug\net8.0\ref\AbstractFactoryModalidades.dll
